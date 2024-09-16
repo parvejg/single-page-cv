@@ -1,1 +1,1 @@
-create a simple semantic html cv
+md-parvej-cv.netlify.app
